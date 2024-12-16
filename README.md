@@ -1,1 +1,3 @@
 # SDK-AutoHitter
+Automatic Card Generation and Filling: Generate and autofill card  on stripe checkout single click or keypress X per default.
+Better you find out what this extension can do...
